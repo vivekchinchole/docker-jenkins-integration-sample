@@ -1,0 +1,3 @@
+spring:
+  application:
+    name: springboot-K8s-example
